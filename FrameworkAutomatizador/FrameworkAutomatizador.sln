@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkAutomatizador", "FrameworkAutomatizador\FrameworkAutomatizador.csproj", "{03ACE9BF-D570-4A8B-9710-F1AE5125C6F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedFramework", "FrameworkAutomatizador\AutomatedFramework.csproj", "{03ACE9BF-D570-4A8B-9710-F1AE5125C6F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedProcess", "AutomatedProcess\AutomatedProcess.csproj", "{A1D445DF-7E8E-4640-B8FD-117E31496AAE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationProcess", "AutomationProcess\AutomationProcess.csproj", "{41020B80-1C9D-4CC1-928C-7BCEEF0BD5D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{03ACE9BF-D570-4A8B-9710-F1AE5125C6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03ACE9BF-D570-4A8B-9710-F1AE5125C6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03ACE9BF-D570-4A8B-9710-F1AE5125C6F1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A1D445DF-7E8E-4640-B8FD-117E31496AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A1D445DF-7E8E-4640-B8FD-117E31496AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A1D445DF-7E8E-4640-B8FD-117E31496AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A1D445DF-7E8E-4640-B8FD-117E31496AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41020B80-1C9D-4CC1-928C-7BCEEF0BD5D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41020B80-1C9D-4CC1-928C-7BCEEF0BD5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41020B80-1C9D-4CC1-928C-7BCEEF0BD5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41020B80-1C9D-4CC1-928C-7BCEEF0BD5D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
